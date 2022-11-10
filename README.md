@@ -1,1 +1,1 @@
-# Python_QRcode
+# PythonでQRコードを生成してみる
