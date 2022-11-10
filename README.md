@@ -13,3 +13,6 @@ qrcodeを使用するにはライブラリをインストールする必要が�
 `import qrcode`  
 `img = qrcode.make('任意のURL')`  
 `img.save("任意の画像名.png")`  
+
+## 参考にしたサイト↓
+[公式ドキュメント](https://pypi.org/project/qrcode/)
